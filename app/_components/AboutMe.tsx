@@ -55,10 +55,10 @@ const AboutMe = () => {
         <section className="pb-section" id="about-me">
             <div className="container" ref={container}>
                 <h2 className="text-4xl md:text-6xl font-thin mb-20 slide-up-and-fade">
-                    I'm Mayur Chauhan, a proactive full-stack developer
+                    I&apos;m Mayur Chauhan, a proactive full-stack developer
                     passionate about creating dynamic web experiences. From
                     frontend to backend, My expertise spans React, Next.js, and
-                    Node.js, and I'm always eager to learn more.
+                    Node.js, and I&apos;m always eager to learn more.
                 </h2>
 
                 <p className="pb-3 border-b text-muted-foreground slide-up-and-fade">
